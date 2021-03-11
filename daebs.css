@@ -1,0 +1,13 @@
+body{
+   background-color: #808080;
+   color: #000000 ;
+   font-family: "Verdana";}
+   table, th, td{
+       border: 1px solid black;
+   } 
+   h1 {
+       text-align:right;
+   }
+   h2{
+        color: rgb(150, 19,10);
+   }
